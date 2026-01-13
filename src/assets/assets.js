@@ -36,38 +36,38 @@ export const assets = {
 export const projectsData = [
     {
       title: "Skyline Haven",
-      price: "$2,50,000",
-      location: "California",
+      price: "₹2,50,0000",
+      location: "Kolkata",
       image: project_img_1
     },
     {
       title: "Vista Verde",
-      price: "$2,50,000",
-      location: "San Francisco",
+      price: "$2,50,0000",
+      location: "Jaipur",
       image: project_img_2
     },
     {
       title: "Serenity Suites",
-      price: "$2,50,000",
-      location: "Chicago",
+      price: "₹2,50,0000",
+      location: "Digha",
       image: project_img_3
     },
     {
       title: "Central Square",
-      price: "$2,50,000",
-      location: "Los Angeles",
+      price: "₹2,50,0000",
+      location: "Paschim Medinipur",
       image: project_img_4
     },
     {
       title: "Vista Verde",
-      price: "$2,50,000",
-      location: "San Francisco",
+      price: "₹2,50,0000",
+      location: "Bankura",
       image: project_img_5
     },
     {
       title: "Serenity Suites",
-      price: "$2,50,000",
-      location: "Chicago",
+      price: "₹2,50,0000",
+      location: "Darjeeling",
       image: project_img_6
     },
     
@@ -75,27 +75,27 @@ export const projectsData = [
 
   export const testimonialsData = [
     {
-        name: "Donald Jackman",
+        name: "Rudranil Mallick",
         title: "Marketing Manager",
         image: profile_img_1,
         alt: "Portrait of Donald Jackman",
         rating: 5,
-        text: "From the very first meeting, they understood my vision and helped me find the perfect property. Their attention to detail and commitment to client satisfaction is unmatched."
+        text: "They made the home-buying journey simple and enjoyable. Every question was answered clearly, and I always felt confident and supported throughout the process."
     },
     {
-        name: "Richard Nelson",
+        name: "Subham Choudhury",
         title: "UI/UX Designer",
         image: profile_img_2,
         alt: "Portrait of Richard Nelson",
         rating: 4,
-        text: "From the very first meeting, they understood my vision and helped me find the perfect property. Their attention to detail and commitment to client satisfaction is unmatched."
+        text: "Working with them was a seamless experience. They listened carefully to my requirements and delivered exactly what I was looking for, making the entire process smooth and stress-free."
     },
     {
-        name: "James Washington",
+        name: "Renuka Singh",
         title: "Co-Founder",
         image: profile_img_3,
         alt: "Portrait of James Washington",
         rating: 5,
-        text: "From the very first meeting, they understood my vision and helped me find the perfect property. Their attention to detail and commitment to client satisfaction is unmatched."
+        text: "Their expertise and guidance made all the difference. From start to finish, the experience was efficient, transparent, and truly professional."
     }
 ];

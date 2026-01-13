@@ -33,7 +33,8 @@ const About = () => {
                     <p>Ongoing Projects</p>
                 </div>
             </div>
-            <p className='my-10 max-w-lg'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+            <p className='my-10 max-w-lg'>We are a real estate brand built on trust, craftsmanship, and a deep understanding of modern living. With years of experience in delivering thoughtfully designed spaces, we focus on creating homes that balance comfort, functionality, and timeless style.
+              Our approach is simple — listen carefully, plan precisely, and deliver properties that meet both lifestyle needs and long-term value. Every project reflects our commitment to quality, transparency, and client satisfaction.</p>
             <button className='bg-blue-600 text-white px-8 py-2 rounded'>Learn more</button>
         </div>
       </div>
