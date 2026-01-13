@@ -46,4 +46,4 @@ This project can be used as:
 
 ---
 
-This project is open-source and free to use for learning and portfolio purposes.
+This project is not open-source.
